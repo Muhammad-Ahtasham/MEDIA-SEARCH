@@ -42,7 +42,7 @@ A React-based media discovery app that lets you search for **photos**, **videos*
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Muhammad-Ahtasham/MEDIA-SEARCH.git
    cd project
    ```
 
